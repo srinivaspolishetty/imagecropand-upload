@@ -1,0 +1,14 @@
+var mydata = {
+
+"FirstName":"Tony",
+"LastName":"Polishetty",
+"DOB":"20/05/1986",
+"Address":"Plot No 14-3/A, Lothkunta, Alwal, Post Trimulghery, Secunderabad - 500015",
+"LandMark": "Lane next to More Supermarker",
+"City": "Hyderabad",
+"State": "Telengana",
+"Country": "India",
+"PhoneNo": "9949040586",
+"EmailId": "srinivaspolishetty@gmail.com"
+
+}
